@@ -1,4 +1,4 @@
-package cz.cvut.fel.ts1;
+package lab02;
 
 public class Meth {
     public int factorial(int n) {
